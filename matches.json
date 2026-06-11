@@ -1,0 +1,1376 @@
+{
+  "source": "supersport.hr (saved HTML)",
+  "devig_method": "multiplicative (proportional)",
+  "lambda_fit": "Poisson survival LSQ over de-vigged O/U goal ladders",
+  "n_matches": 72,
+  "matches": [
+    {
+      "home": "Algeria",
+      "away": "Austria",
+      "lambda_home": 1.0763,
+      "lambda_away": 1.4531,
+      "p_home_clean_sheet": 0.2338,
+      "p_away_clean_sheet": 0.3409,
+      "p_home_win": 0.2691,
+      "p_draw": 0.2952,
+      "p_away_win": 0.4357,
+      "odds_1x2_raw": [
+        3.4,
+        3.1,
+        2.1
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Argentina",
+      "away": "Algeria",
+      "lambda_home": 2.0565,
+      "lambda_away": 0.6553,
+      "p_home_clean_sheet": 0.5193,
+      "p_away_clean_sheet": 0.1279,
+      "p_home_win": 0.6787,
+      "p_draw": 0.1992,
+      "p_away_win": 0.1222,
+      "odds_1x2_raw": [
+        1.35,
+        4.6,
+        7.5
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 2,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Argentina",
+      "away": "Austria",
+      "lambda_home": 1.8247,
+      "lambda_away": 0.863,
+      "p_home_clean_sheet": 0.4219,
+      "p_away_clean_sheet": 0.1613,
+      "p_home_win": 0.5744,
+      "p_draw": 0.2418,
+      "p_away_win": 0.1838,
+      "odds_1x2_raw": [
+        1.6,
+        3.8,
+        5.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Australia",
+      "away": "Turkey",
+      "lambda_home": 0.897,
+      "lambda_away": 1.7398,
+      "p_home_clean_sheet": 0.1756,
+      "p_away_clean_sheet": 0.4078,
+      "p_home_win": 0.1953,
+      "p_draw": 0.2533,
+      "p_away_win": 0.5514,
+      "odds_1x2_raw": [
+        4.8,
+        3.7,
+        1.7
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Austria",
+      "away": "Jordan",
+      "lambda_home": 2.3357,
+      "lambda_away": 0.7417,
+      "p_home_clean_sheet": 0.4763,
+      "p_away_clean_sheet": 0.0967,
+      "p_home_win": 0.7184,
+      "p_draw": 0.173,
+      "p_away_win": 0.1086,
+      "odds_1x2_raw": [
+        1.3,
+        5.4,
+        8.6
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Belgium",
+      "away": "Egypt",
+      "lambda_home": 1.7752,
+      "lambda_away": 0.863,
+      "p_home_clean_sheet": 0.4219,
+      "p_away_clean_sheet": 0.1694,
+      "p_home_win": 0.561,
+      "p_draw": 0.2502,
+      "p_away_win": 0.1889,
+      "odds_1x2_raw": [
+        1.65,
+        3.7,
+        4.9
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Belgium",
+      "away": "Iran",
+      "lambda_home": 2.0557,
+      "lambda_away": 0.7244,
+      "p_home_clean_sheet": 0.4846,
+      "p_away_clean_sheet": 0.128,
+      "p_home_win": 0.6618,
+      "p_draw": 0.2059,
+      "p_away_win": 0.1324,
+      "odds_1x2_raw": [
+        1.4,
+        4.5,
+        7.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "lambda_home": 1.7752,
+      "lambda_away": 0.7962,
+      "p_home_clean_sheet": 0.451,
+      "p_away_clean_sheet": 0.1694,
+      "p_home_win": 0.5823,
+      "p_draw": 0.2452,
+      "p_away_win": 0.1725,
+      "odds_1x2_raw": [
+        1.6,
+        3.8,
+        5.4
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Brazil",
+      "away": "Haiti",
+      "lambda_home": 3.3702,
+      "lambda_away": 0.5358,
+      "p_home_clean_sheet": 0.5852,
+      "p_away_clean_sheet": 0.0344,
+      "p_home_win": 0.8678,
+      "p_draw": 0.0955,
+      "p_away_win": 0.0367,
+      "odds_1x2_raw": [
+        1.1,
+        10.0,
+        26.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 2,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Brazil",
+      "away": "Morocco",
+      "lambda_home": 1.7418,
+      "lambda_away": 0.8183,
+      "p_home_clean_sheet": 0.4412,
+      "p_away_clean_sheet": 0.1752,
+      "p_home_win": 0.5709,
+      "p_draw": 0.2479,
+      "p_away_win": 0.1812,
+      "odds_1x2_raw": [
+        1.65,
+        3.8,
+        5.2
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "lambda_home": 1.5855,
+      "lambda_away": 0.904,
+      "p_home_clean_sheet": 0.405,
+      "p_away_clean_sheet": 0.2048,
+      "p_home_win": 0.5174,
+      "p_draw": 0.2661,
+      "p_away_win": 0.2166,
+      "odds_1x2_raw": [
+        1.8,
+        3.5,
+        4.3
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Canada",
+      "away": "Qatar",
+      "lambda_home": 2.1342,
+      "lambda_away": 0.5684,
+      "p_home_clean_sheet": 0.5664,
+      "p_away_clean_sheet": 0.1183,
+      "p_home_win": 0.7194,
+      "p_draw": 0.1871,
+      "p_away_win": 0.0935,
+      "odds_1x2_raw": [
+        1.3,
+        5.0,
+        10.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 2,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Cape Verde",
+      "away": "Saudi Arabia",
+      "lambda_home": 1.288,
+      "lambda_away": 1.2375,
+      "p_home_clean_sheet": 0.2901,
+      "p_away_clean_sheet": 0.2758,
+      "p_home_win": 0.3694,
+      "p_draw": 0.2886,
+      "p_away_win": 0.342,
+      "odds_1x2_raw": [
+        2.5,
+        3.2,
+        2.7
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Colombia",
+      "away": "DR Congo",
+      "lambda_home": 1.8247,
+      "lambda_away": 0.6402,
+      "p_home_clean_sheet": 0.5272,
+      "p_away_clean_sheet": 0.1613,
+      "p_home_win": 0.6356,
+      "p_draw": 0.2248,
+      "p_away_win": 0.1396,
+      "odds_1x2_raw": [
+        1.45,
+        4.1,
+        6.6
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 2,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Colombia",
+      "away": "Portugal",
+      "lambda_home": 1.0779,
+      "lambda_away": 1.4563,
+      "p_home_clean_sheet": 0.2331,
+      "p_away_clean_sheet": 0.3403,
+      "p_home_win": 0.274,
+      "p_draw": 0.2823,
+      "p_away_win": 0.4437,
+      "odds_1x2_raw": [
+        3.4,
+        3.3,
+        2.1
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Croatia",
+      "away": "Ghana",
+      "lambda_home": 1.7154,
+      "lambda_away": 0.8183,
+      "p_home_clean_sheet": 0.4412,
+      "p_away_clean_sheet": 0.1799,
+      "p_home_win": 0.5631,
+      "p_draw": 0.2511,
+      "p_away_win": 0.1858,
+      "odds_1x2_raw": [
+        1.65,
+        3.7,
+        5.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Curaçao",
+      "away": "Ivory Coast",
+      "lambda_home": 0.6051,
+      "lambda_away": 2.4096,
+      "p_home_clean_sheet": 0.0899,
+      "p_away_clean_sheet": 0.546,
+      "p_home_win": 0.085,
+      "p_draw": 0.167,
+      "p_away_win": 0.748,
+      "odds_1x2_raw": [
+        11.0,
+        5.6,
+        1.25
+      ],
+      "n_home_goal_lines": 2,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Czechia",
+      "away": "Mexico",
+      "lambda_home": 0.904,
+      "lambda_away": 1.6041,
+      "p_home_clean_sheet": 0.2011,
+      "p_away_clean_sheet": 0.405,
+      "p_home_win": 0.2166,
+      "p_draw": 0.2661,
+      "p_away_win": 0.5174,
+      "odds_1x2_raw": [
+        4.3,
+        3.5,
+        1.8
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Czechia",
+      "away": "South Africa",
+      "lambda_home": 1.4863,
+      "lambda_away": 0.9398,
+      "p_home_clean_sheet": 0.3907,
+      "p_away_clean_sheet": 0.2262,
+      "p_home_win": 0.4806,
+      "p_draw": 0.2853,
+      "p_away_win": 0.2341,
+      "odds_1x2_raw": [
+        1.9,
+        3.2,
+        3.9
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "lambda_home": 1.3024,
+      "lambda_away": 1.0786,
+      "p_home_clean_sheet": 0.3401,
+      "p_away_clean_sheet": 0.2719,
+      "p_home_win": 0.4023,
+      "p_draw": 0.2892,
+      "p_away_win": 0.3085,
+      "odds_1x2_raw": [
+        2.3,
+        3.2,
+        3.0
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Ecuador",
+      "away": "Curaçao",
+      "lambda_home": 2.4663,
+      "lambda_away": 0.5471,
+      "p_home_clean_sheet": 0.5787,
+      "p_away_clean_sheet": 0.0849,
+      "p_home_win": 0.7777,
+      "p_draw": 0.1505,
+      "p_away_win": 0.0718,
+      "odds_1x2_raw": [
+        1.2,
+        6.2,
+        13.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 2,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Ecuador",
+      "away": "Germany",
+      "lambda_home": 0.9592,
+      "lambda_away": 1.7804,
+      "p_home_clean_sheet": 0.1686,
+      "p_away_clean_sheet": 0.3832,
+      "p_home_win": 0.2056,
+      "p_draw": 0.2501,
+      "p_away_win": 0.5443,
+      "odds_1x2_raw": [
+        4.5,
+        3.7,
+        1.7
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Egypt",
+      "away": "Iran",
+      "lambda_home": 1.2488,
+      "lambda_away": 0.9223,
+      "p_home_clean_sheet": 0.3976,
+      "p_away_clean_sheet": 0.2869,
+      "p_home_win": 0.4179,
+      "p_draw": 0.3117,
+      "p_away_win": 0.2704,
+      "odds_1x2_raw": [
+        2.2,
+        2.95,
+        3.4
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "England",
+      "away": "Croatia",
+      "lambda_home": 1.6478,
+      "lambda_away": 0.88,
+      "p_home_clean_sheet": 0.4148,
+      "p_away_clean_sheet": 0.1925,
+      "p_home_win": 0.5357,
+      "p_draw": 0.2604,
+      "p_away_win": 0.2038,
+      "odds_1x2_raw": [
+        1.75,
+        3.6,
+        4.6
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "England",
+      "away": "Ghana",
+      "lambda_home": 2.2851,
+      "lambda_away": 0.694,
+      "p_home_clean_sheet": 0.4996,
+      "p_away_clean_sheet": 0.1018,
+      "p_home_win": 0.7171,
+      "p_draw": 0.1793,
+      "p_away_win": 0.1036,
+      "odds_1x2_raw": [
+        1.3,
+        5.2,
+        9.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "France",
+      "away": "Iraq",
+      "lambda_home": 2.9301,
+      "lambda_away": 0.4489,
+      "p_home_clean_sheet": 0.6383,
+      "p_away_clean_sheet": 0.0534,
+      "p_home_win": 0.8445,
+      "p_draw": 0.1133,
+      "p_away_win": 0.0422,
+      "odds_1x2_raw": [
+        1.1,
+        8.2,
+        22.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 2,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "France",
+      "away": "Senegal",
+      "lambda_home": 1.9531,
+      "lambda_away": 0.7566,
+      "p_home_clean_sheet": 0.4693,
+      "p_away_clean_sheet": 0.1418,
+      "p_home_win": 0.6365,
+      "p_draw": 0.2146,
+      "p_away_win": 0.1489,
+      "odds_1x2_raw": [
+        1.45,
+        4.3,
+        6.2
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Germany",
+      "away": "Curaçao",
+      "lambda_home": 4.3562,
+      "lambda_away": 0.8135,
+      "p_home_clean_sheet": 0.4433,
+      "p_away_clean_sheet": 0.0128,
+      "p_home_win": 0.921,
+      "p_draw": 0.0527,
+      "p_away_win": 0.0263,
+      "odds_1x2_raw": [
+        1.03,
+        18.0,
+        36.0
+      ],
+      "n_home_goal_lines": 0,
+      "n_away_goal_lines": 0,
+      "lambda_source": "1x2_fallback"
+    },
+    {
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "lambda_home": 1.9582,
+      "lambda_away": 0.904,
+      "p_home_clean_sheet": 0.405,
+      "p_away_clean_sheet": 0.1411,
+      "p_home_win": 0.5966,
+      "p_draw": 0.2255,
+      "p_away_win": 0.1778,
+      "odds_1x2_raw": [
+        1.55,
+        4.1,
+        5.2
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Ghana",
+      "away": "Panama",
+      "lambda_home": 1.4207,
+      "lambda_away": 0.983,
+      "p_home_clean_sheet": 0.3742,
+      "p_away_clean_sheet": 0.2415,
+      "p_home_win": 0.4592,
+      "p_draw": 0.2783,
+      "p_away_win": 0.2624,
+      "odds_1x2_raw": [
+        2.0,
+        3.3,
+        3.5
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Haiti",
+      "away": "Scotland",
+      "lambda_home": 0.8387,
+      "lambda_away": 1.8982,
+      "p_home_clean_sheet": 0.1498,
+      "p_away_clean_sheet": 0.4323,
+      "p_home_win": 0.1707,
+      "p_draw": 0.2235,
+      "p_away_win": 0.6057,
+      "odds_1x2_raw": [
+        5.5,
+        4.2,
+        1.55
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Iran",
+      "away": "New Zealand",
+      "lambda_home": 1.5029,
+      "lambda_away": 0.863,
+      "p_home_clean_sheet": 0.4219,
+      "p_away_clean_sheet": 0.2225,
+      "p_home_win": 0.5133,
+      "p_draw": 0.2718,
+      "p_away_win": 0.2149,
+      "odds_1x2_raw": [
+        1.8,
+        3.4,
+        4.3
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Iraq",
+      "away": "Norway",
+      "lambda_home": 0.601,
+      "lambda_away": 2.5866,
+      "p_home_clean_sheet": 0.0753,
+      "p_away_clean_sheet": 0.5483,
+      "p_home_win": 0.0723,
+      "p_draw": 0.1446,
+      "p_away_win": 0.7831,
+      "odds_1x2_raw": [
+        13.0,
+        6.5,
+        1.2
+      ],
+      "n_home_goal_lines": 2,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "lambda_home": 0.9114,
+      "lambda_away": 1.1882,
+      "p_home_clean_sheet": 0.3048,
+      "p_away_clean_sheet": 0.402,
+      "p_home_win": 0.2658,
+      "p_draw": 0.3383,
+      "p_away_win": 0.3959,
+      "odds_1x2_raw": [
+        3.5,
+        2.75,
+        2.35
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Japan",
+      "away": "Sweden",
+      "lambda_home": 1.4863,
+      "lambda_away": 1.0779,
+      "p_home_clean_sheet": 0.3403,
+      "p_away_clean_sheet": 0.2262,
+      "p_home_win": 0.4437,
+      "p_draw": 0.2823,
+      "p_away_win": 0.274,
+      "odds_1x2_raw": [
+        2.1,
+        3.3,
+        3.4
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Jordan",
+      "away": "Algeria",
+      "lambda_home": 0.7926,
+      "lambda_away": 1.9195,
+      "p_home_clean_sheet": 0.1467,
+      "p_away_clean_sheet": 0.4527,
+      "p_home_win": 0.1547,
+      "p_draw": 0.2264,
+      "p_away_win": 0.6189,
+      "odds_1x2_raw": [
+        6.0,
+        4.1,
+        1.5
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Jordan",
+      "away": "Argentina",
+      "lambda_home": 0.6041,
+      "lambda_away": 2.5599,
+      "p_home_clean_sheet": 0.0773,
+      "p_away_clean_sheet": 0.5465,
+      "p_home_win": 0.0718,
+      "p_draw": 0.1505,
+      "p_away_win": 0.7777,
+      "odds_1x2_raw": [
+        13.0,
+        6.2,
+        1.2
+      ],
+      "n_home_goal_lines": 2,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Mexico",
+      "away": "South Africa",
+      "lambda_home": 1.8623,
+      "lambda_away": 0.6041,
+      "p_home_clean_sheet": 0.5465,
+      "p_away_clean_sheet": 0.1553,
+      "p_home_win": 0.6667,
+      "p_draw": 0.2222,
+      "p_away_win": 0.1111,
+      "odds_1x2_raw": [
+        1.5,
+        4.5,
+        9.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 2,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Mexico",
+      "away": "South Korea",
+      "lambda_home": 1.5421,
+      "lambda_away": 0.8733,
+      "p_home_clean_sheet": 0.4176,
+      "p_away_clean_sheet": 0.2139,
+      "p_home_win": 0.5133,
+      "p_draw": 0.2718,
+      "p_away_win": 0.2149,
+      "odds_1x2_raw": [
+        1.8,
+        3.4,
+        4.3
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Morocco",
+      "away": "Haiti",
+      "lambda_home": 2.2663,
+      "lambda_away": 0.694,
+      "p_home_clean_sheet": 0.4996,
+      "p_away_clean_sheet": 0.1037,
+      "p_home_win": 0.7171,
+      "p_draw": 0.1793,
+      "p_away_win": 0.1036,
+      "odds_1x2_raw": [
+        1.3,
+        5.2,
+        9.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Netherlands",
+      "away": "Japan",
+      "lambda_home": 1.5855,
+      "lambda_away": 1.1255,
+      "p_home_clean_sheet": 0.3245,
+      "p_away_clean_sheet": 0.2048,
+      "p_home_win": 0.463,
+      "p_draw": 0.2646,
+      "p_away_win": 0.2724,
+      "odds_1x2_raw": [
+        2.0,
+        3.5,
+        3.4
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Netherlands",
+      "away": "Sweden",
+      "lambda_home": 1.8247,
+      "lambda_away": 0.904,
+      "p_home_clean_sheet": 0.405,
+      "p_away_clean_sheet": 0.1613,
+      "p_home_win": 0.5735,
+      "p_draw": 0.2353,
+      "p_away_win": 0.1912,
+      "odds_1x2_raw": [
+        1.6,
+        3.9,
+        4.8
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "New Zealand",
+      "away": "Belgium",
+      "lambda_home": 0.6402,
+      "lambda_away": 2.3653,
+      "p_home_clean_sheet": 0.0939,
+      "p_away_clean_sheet": 0.5272,
+      "p_home_win": 0.0932,
+      "p_draw": 0.1608,
+      "p_away_win": 0.746,
+      "odds_1x2_raw": [
+        10.0,
+        5.8,
+        1.25
+      ],
+      "n_home_goal_lines": 2,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "New Zealand",
+      "away": "Egypt",
+      "lambda_home": 0.8183,
+      "lambda_away": 1.5945,
+      "p_home_clean_sheet": 0.203,
+      "p_away_clean_sheet": 0.4412,
+      "p_home_win": 0.2007,
+      "p_draw": 0.2564,
+      "p_away_win": 0.543,
+      "odds_1x2_raw": [
+        4.6,
+        3.6,
+        1.7
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Norway",
+      "away": "France",
+      "lambda_home": 0.9767,
+      "lambda_away": 1.6619,
+      "p_home_clean_sheet": 0.1898,
+      "p_away_clean_sheet": 0.3766,
+      "p_home_win": 0.2248,
+      "p_draw": 0.2633,
+      "p_away_win": 0.512,
+      "odds_1x2_raw": [
+        4.1,
+        3.5,
+        1.8
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Norway",
+      "away": "Senegal",
+      "lambda_home": 1.5113,
+      "lambda_away": 1.1414,
+      "p_home_clean_sheet": 0.3194,
+      "p_away_clean_sheet": 0.2206,
+      "p_home_win": 0.4437,
+      "p_draw": 0.274,
+      "p_away_win": 0.2823,
+      "odds_1x2_raw": [
+        2.1,
+        3.4,
+        3.3
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Panama",
+      "away": "Croatia",
+      "lambda_home": 0.7598,
+      "lambda_away": 1.8305,
+      "p_home_clean_sheet": 0.1603,
+      "p_away_clean_sheet": 0.4677,
+      "p_home_win": 0.1605,
+      "p_draw": 0.2387,
+      "p_away_win": 0.6007,
+      "odds_1x2_raw": [
+        5.8,
+        3.9,
+        1.55
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Panama",
+      "away": "England",
+      "lambda_home": 0.7325,
+      "lambda_away": 2.3519,
+      "p_home_clean_sheet": 0.0952,
+      "p_away_clean_sheet": 0.4807,
+      "p_home_win": 0.1086,
+      "p_draw": 0.173,
+      "p_away_win": 0.7184,
+      "odds_1x2_raw": [
+        8.6,
+        5.4,
+        1.3
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Paraguay",
+      "away": "Australia",
+      "lambda_home": 1.3614,
+      "lambda_away": 1.0208,
+      "p_home_clean_sheet": 0.3603,
+      "p_away_clean_sheet": 0.2563,
+      "p_home_win": 0.4304,
+      "p_draw": 0.2892,
+      "p_away_win": 0.2804,
+      "odds_1x2_raw": [
+        2.15,
+        3.2,
+        3.3
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Portugal",
+      "away": "DR Congo",
+      "lambda_home": 2.3357,
+      "lambda_away": 0.6402,
+      "p_home_clean_sheet": 0.5272,
+      "p_away_clean_sheet": 0.0967,
+      "p_home_win": 0.7395,
+      "p_draw": 0.1681,
+      "p_away_win": 0.0924,
+      "odds_1x2_raw": [
+        1.25,
+        5.5,
+        10.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 2,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "lambda_home": 2.5128,
+      "lambda_away": 0.6988,
+      "p_home_clean_sheet": 0.4972,
+      "p_away_clean_sheet": 0.081,
+      "p_home_win": 0.75,
+      "p_draw": 0.1562,
+      "p_away_win": 0.0938,
+      "odds_1x2_raw": [
+        1.25,
+        6.0,
+        10.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Qatar",
+      "away": "Switzerland",
+      "lambda_home": 0.5609,
+      "lambda_away": 2.4364,
+      "p_home_clean_sheet": 0.0875,
+      "p_away_clean_sheet": 0.5707,
+      "p_home_win": 0.073,
+      "p_draw": 0.1357,
+      "p_away_win": 0.7913,
+      "odds_1x2_raw": [
+        13.0,
+        7.0,
+        1.2
+      ],
+      "n_home_goal_lines": 2,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "lambda_home": 0.6988,
+      "lambda_away": 1.9531,
+      "p_home_clean_sheet": 0.1418,
+      "p_away_clean_sheet": 0.4972,
+      "p_home_win": 0.1411,
+      "p_draw": 0.2166,
+      "p_away_win": 0.6423,
+      "odds_1x2_raw": [
+        6.6,
+        4.3,
+        1.45
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Scotland",
+      "away": "Brazil",
+      "lambda_home": 0.7962,
+      "lambda_away": 2.0232,
+      "p_home_clean_sheet": 0.1322,
+      "p_away_clean_sheet": 0.451,
+      "p_home_win": 0.1496,
+      "p_draw": 0.2108,
+      "p_away_win": 0.6396,
+      "odds_1x2_raw": [
+        6.2,
+        4.4,
+        1.45
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Scotland",
+      "away": "Morocco",
+      "lambda_home": 0.93,
+      "lambda_away": 1.4402,
+      "p_home_clean_sheet": 0.2369,
+      "p_away_clean_sheet": 0.3946,
+      "p_home_win": 0.2446,
+      "p_draw": 0.2905,
+      "p_away_win": 0.4648,
+      "odds_1x2_raw": [
+        3.8,
+        3.2,
+        2.0
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Senegal",
+      "away": "Iraq",
+      "lambda_home": 2.0232,
+      "lambda_away": 0.7244,
+      "p_home_clean_sheet": 0.4846,
+      "p_away_clean_sheet": 0.1322,
+      "p_home_win": 0.6535,
+      "p_draw": 0.2079,
+      "p_away_win": 0.1386,
+      "odds_1x2_raw": [
+        1.4,
+        4.4,
+        6.6
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "South Africa",
+      "away": "South Korea",
+      "lambda_home": 0.9748,
+      "lambda_away": 1.5248,
+      "p_home_clean_sheet": 0.2177,
+      "p_away_clean_sheet": 0.3773,
+      "p_home_win": 0.2429,
+      "p_draw": 0.2714,
+      "p_away_win": 0.4857,
+      "odds_1x2_raw": [
+        3.8,
+        3.4,
+        1.9
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "South Korea",
+      "away": "Czechia",
+      "lambda_home": 1.2716,
+      "lambda_away": 1.2392,
+      "p_home_clean_sheet": 0.2896,
+      "p_away_clean_sheet": 0.2804,
+      "p_home_win": 0.3441,
+      "p_draw": 0.3118,
+      "p_away_win": 0.3441,
+      "odds_1x2_raw": [
+        2.9,
+        3.2,
+        2.9
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Spain",
+      "away": "Cape Verde",
+      "lambda_home": 3.1411,
+      "lambda_away": 0.4971,
+      "p_home_clean_sheet": 0.6083,
+      "p_away_clean_sheet": 0.0432,
+      "p_home_win": 0.8497,
+      "p_draw": 0.0984,
+      "p_away_win": 0.0519,
+      "odds_1x2_raw": [
+        1.1,
+        9.5,
+        18.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 2,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "lambda_home": 2.9469,
+      "lambda_away": 0.4613,
+      "p_home_clean_sheet": 0.6305,
+      "p_away_clean_sheet": 0.0525,
+      "p_home_win": 0.849,
+      "p_draw": 0.1086,
+      "p_away_win": 0.0424,
+      "odds_1x2_raw": [
+        1.1,
+        8.6,
+        22.0
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 2,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Sweden",
+      "away": "Tunisia",
+      "lambda_home": 1.5029,
+      "lambda_away": 0.904,
+      "p_home_clean_sheet": 0.405,
+      "p_away_clean_sheet": 0.2225,
+      "p_home_win": 0.4971,
+      "p_draw": 0.2787,
+      "p_away_win": 0.2243,
+      "odds_1x2_raw": [
+        1.85,
+        3.3,
+        4.1
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "lambda_home": 1.8041,
+      "lambda_away": 0.8183,
+      "p_home_clean_sheet": 0.4412,
+      "p_away_clean_sheet": 0.1646,
+      "p_home_win": 0.5898,
+      "p_draw": 0.2344,
+      "p_away_win": 0.1758,
+      "odds_1x2_raw": [
+        1.55,
+        3.9,
+        5.2
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Switzerland",
+      "away": "Canada",
+      "lambda_home": 1.4563,
+      "lambda_away": 1.0564,
+      "p_home_clean_sheet": 0.3477,
+      "p_away_clean_sheet": 0.2331,
+      "p_home_win": 0.4437,
+      "p_draw": 0.2823,
+      "p_away_win": 0.274,
+      "odds_1x2_raw": [
+        2.1,
+        3.3,
+        3.4
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Tunisia",
+      "away": "Japan",
+      "lambda_home": 0.8128,
+      "lambda_away": 1.6056,
+      "p_home_clean_sheet": 0.2008,
+      "p_away_clean_sheet": 0.4436,
+      "p_home_win": 0.1925,
+      "p_draw": 0.264,
+      "p_away_win": 0.5435,
+      "odds_1x2_raw": [
+        4.8,
+        3.5,
+        1.7
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "lambda_home": 0.7976,
+      "lambda_away": 1.9299,
+      "p_home_clean_sheet": 0.1452,
+      "p_away_clean_sheet": 0.4504,
+      "p_home_win": 0.1601,
+      "p_draw": 0.221,
+      "p_away_win": 0.6189,
+      "odds_1x2_raw": [
+        5.8,
+        4.2,
+        1.5
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Turkey",
+      "away": "Paraguay",
+      "lambda_home": 1.3564,
+      "lambda_away": 1.0226,
+      "p_home_clean_sheet": 0.3596,
+      "p_away_clean_sheet": 0.2576,
+      "p_home_win": 0.4208,
+      "p_draw": 0.2986,
+      "p_away_win": 0.2805,
+      "odds_1x2_raw": [
+        2.2,
+        3.1,
+        3.3
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Turkey",
+      "away": "United States",
+      "lambda_home": 1.3564,
+      "lambda_away": 1.4207,
+      "p_home_clean_sheet": 0.2415,
+      "p_away_clean_sheet": 0.2576,
+      "p_home_win": 0.3495,
+      "p_draw": 0.2724,
+      "p_away_win": 0.3781,
+      "odds_1x2_raw": [
+        2.65,
+        3.4,
+        2.45
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 4,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "United States",
+      "away": "Australia",
+      "lambda_home": 1.6719,
+      "lambda_away": 0.93,
+      "p_home_clean_sheet": 0.3946,
+      "p_away_clean_sheet": 0.1879,
+      "p_home_win": 0.5319,
+      "p_draw": 0.2516,
+      "p_away_win": 0.2165,
+      "odds_1x2_raw": [
+        1.75,
+        3.7,
+        4.3
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "United States",
+      "away": "Paraguay",
+      "lambda_home": 1.4725,
+      "lambda_away": 0.904,
+      "p_home_clean_sheet": 0.405,
+      "p_away_clean_sheet": 0.2293,
+      "p_home_win": 0.4917,
+      "p_draw": 0.2748,
+      "p_away_win": 0.2336,
+      "odds_1x2_raw": [
+        1.9,
+        3.4,
+        4.0
+      ],
+      "n_home_goal_lines": 4,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Uruguay",
+      "away": "Cape Verde",
+      "lambda_home": 1.9911,
+      "lambda_away": 0.7417,
+      "p_home_clean_sheet": 0.4763,
+      "p_away_clean_sheet": 0.1365,
+      "p_home_win": 0.6441,
+      "p_draw": 0.2123,
+      "p_away_win": 0.1437,
+      "odds_1x2_raw": [
+        1.45,
+        4.4,
+        6.5
+      ],
+      "n_home_goal_lines": 5,
+      "n_away_goal_lines": 3,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Uruguay",
+      "away": "Spain",
+      "lambda_home": 0.904,
+      "lambda_away": 1.8474,
+      "p_home_clean_sheet": 0.1576,
+      "p_away_clean_sheet": 0.405,
+      "p_home_win": 0.1849,
+      "p_draw": 0.2371,
+      "p_away_win": 0.5779,
+      "odds_1x2_raw": [
+        5.0,
+        3.9,
+        1.6
+      ],
+      "n_home_goal_lines": 3,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    },
+    {
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "lambda_home": 0.6542,
+      "lambda_away": 2.0349,
+      "p_home_clean_sheet": 0.1307,
+      "p_away_clean_sheet": 0.5199,
+      "p_home_win": 0.1207,
+      "p_draw": 0.1995,
+      "p_away_win": 0.6798,
+      "odds_1x2_raw": [
+        7.6,
+        4.6,
+        1.35
+      ],
+      "n_home_goal_lines": 2,
+      "n_away_goal_lines": 5,
+      "lambda_source": "goal_ladder"
+    }
+  ]
+}

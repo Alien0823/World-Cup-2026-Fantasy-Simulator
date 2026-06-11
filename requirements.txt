@@ -1,0 +1,10 @@
+streamlit>=1.30
+numpy>=1.24
+scipy>=1.10
+pulp>=2.7
+pandas>=2.0
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+rapidfuzz>=3.0
+playwright>=1.40
