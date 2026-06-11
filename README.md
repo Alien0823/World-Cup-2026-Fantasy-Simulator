@@ -51,13 +51,7 @@ playwright install chromium
 | `sim_rates.py` | Per-90 rate estimation from `db.sqli` |
 | `sim_config.py` | Scoring systems + game rules (FIFA & SofaScore) |
 | `sim_optimize.py` | Exact ILP squad optimiser |
-| `parse_odds.py` | De-vig bookmaker odds → `matches.json` |
-| `parse_squads.py` | ESPN squad HTML → roster |
-| `fotmob_resolver.py` | Resolve FotMob player IDs |
-| `fotmob_scraper.py` | Season stats per player |
-| `scrape_matches.py` | Detailed per-match stats → SQLite |
-| `scrape_fifa_prices.py` | FIFA Fantasy prices (live API) |
-| `parse_sofascore_prices.py` | SofaScore Fantasy prices (saved HTML) |
+
 
 ## Notes & caveats
 - If price or position of player is wrong use https://sqlable.com/sqlite/# to update data in DB. Save it and run app again
