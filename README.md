@@ -22,7 +22,7 @@ form to project fantasy points, rate your squad, and solve for the optimal team.
 
 ## Quick start (just the app)
 
-If you already have `db.sqli` and `matches.json`:
+Download Database from:https://limewire.com/d/XXt7u#F2lqVCQknf and put it inside folder
 
 ```bash
 pip install -r requirements.txt
